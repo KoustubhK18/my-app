@@ -1,0 +1,10 @@
+.site-logo{
+    display: flex;
+    height: 50px;
+    border-bottom: 2px rgb(251, 113, 113) solid;
+    background-color: rgb(255, 255, 255);
+    padding: 12px 20px;
+    margin-top: -30px;
+    position: fixed;
+    width: 100%;
+}

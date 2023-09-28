@@ -1,0 +1,25 @@
+.card-component-container{
+    width: 90%;
+    margin: 5%;
+    box-shadow: 10px 10px 5px rgb(242, 160, 160);
+    border: 2px solid brown;
+    border-radius: 20px;
+}
+
+.image-container > img{
+    display: flex;
+    width : 90%;
+    padding: 5%;
+    border-radius: 40px;
+}
+
+.review-stars, .review-component, .review-text{
+    display: flex;
+    width: 90%;
+    margin: 5%;
+}
+
+.review-stars > img{
+    display: flex;
+    width: 15%;
+}

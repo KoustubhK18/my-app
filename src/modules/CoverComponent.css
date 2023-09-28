@@ -1,0 +1,15 @@
+
+.cover-container > img{
+    display: flex;
+    width: 70%;
+    height: 70%;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    border-radius: 20px;;
+}
+.cover-container > h1{
+    color: rgb(31, 5, 5);
+    text-align: center;
+}
